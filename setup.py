@@ -4,7 +4,7 @@ setup(
     name='django-cache-fn',
     version='1.0',
     description='Cache function result with args for Django.',
-    long_description=open('README.rst').read(),
+    long_description=open('README.md').read(),
     author='o3o3o',
     author_email='o3o3o.me@gmail.com',
     url='https://github.com/o3o3o/django-cache-fn',
